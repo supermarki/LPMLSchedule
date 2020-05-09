@@ -1,0 +1,2 @@
+rootProject.name='LPMLShedule'
+include ':app'
