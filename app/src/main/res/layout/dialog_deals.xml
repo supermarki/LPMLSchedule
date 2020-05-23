@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/DialogCardStyle"
+    app:cardCornerRadius="16dip">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <EditText
+       style="@style/EditTextStyle"
+        android:textAlignment="textStart"
+        android:layout_margin="8dp"
+        android:hint="Деталі">
+
+    </EditText>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBackground"
+            android:text="Скасувати"
+            style="@style/CancelButton"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBackground"
+            android:text="Підтвердити"
+            style="@style/ConfirmButton"/>
+    </LinearLayout>
+</LinearLayout>
+</androidx.cardview.widget.CardView>

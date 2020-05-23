@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LPMLSchedules</string>
+    <string name="schedule">Schedule</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thr</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="homework">Homework</string>
+    <string name="deals">Tasks</string>
+    <string name="subject_name">Subject name</string>
+    <string name="name">Name</string>
+    <string name="class_room">Classroom</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="details">Details</string>
+    <string name="task_list">Task list</string>
+    <string name="subject">Subject</string>
+    <string name="deadline">Deadline</string>
+</resources>

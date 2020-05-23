@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LPMLSchedules</string>
+    <string name="app_name">Школа</string>
     <string name="schedule">Розклад</string>
     <string name="monday">Пн</string>
     <string name="tuesday">Вт</string>
@@ -7,6 +7,20 @@
     <string name="thursday">Чт</string>
     <string name="friday">Пт</string>
     <string name="saturday">Сб</string>
-    <string name="homework">Домашнє завдання</string>
+    <string name="homework">Домашнє</string>
     <string name="deals">Cправи</string>
+    <string name="number" translatable="false">№</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="subject_name">Назва предмету</string>
+    <string name="name">Назва</string>
+    <string name="class_room">Клас</string>
+    <string name="_204" translatable="false">204</string>
+    <string name="cancel">Скасувати</string>
+    <string name="confirm">Підтвердити</string>
+    <string name="details">Опис</string>
+    <string name="task_list">Перелік завдань</string>
+    <string name="subject">Предмет</string>
+    <string name="deadline">Дедлайн</string>
+    <string name="_11_00" translatable="false">11:00</string>
+    <string name="_24_05_2020" translatable="false">24.05.2020</string>
 </resources>

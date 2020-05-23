@@ -1,4 +1,4 @@
-package com.example.lpmlshedule;
+package com.example.lpmlschedule;
 
 import android.content.Context;
 
